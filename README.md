@@ -1,7 +1,7 @@
 ### Olá, eu sou Enzo Leão👋
 
-- 🔭 Hoje trabalho com Front-End e um pouco do Back-End.
-- 🌱 Conhecimentos: Javascript, React.js, Next.js. Para Back-End utilizo Node.js, MySQL e MongoDB.
+- 🔭 Hoje trabalho como Desenvolvedor Full-stack.
+- 🌱 Conhecimentos: Possuo experiência com projetos utilizando React.js, Next.js, Node.js, Laravel, Postgres, MySQL, MongoDB.
 
 
 
