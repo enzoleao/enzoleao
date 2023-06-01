@@ -12,9 +12,9 @@
 </div>
 
 
- <div style="display: inline_block"><br>
+
   [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,php,sequelize,react,nextjs,sass,tailwind&perline=3)](https://skillicons.dev)
-</div>
+
   
   ##
  
