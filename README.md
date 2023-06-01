@@ -13,7 +13,7 @@
 
 
 
-  [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,php,sequelize,react,nextjs,sass,tailwind&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,php,sequelize,react,nextjs,sass,tailwind&perline=10)](https://skillicons.dev)
 
   
   ##
