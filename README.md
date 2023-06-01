@@ -14,7 +14,7 @@
  <br/>
 
 
-  [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,express,php,laravel,mysql,postgres,sequelize,prisma,react,nextjs,sass,tailwind&perline=10&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,express,php,laravel,mysql,postgres,sequelize,prisma,react,nextjs,sass,tailwind&perline=14&theme=light)](https://skillicons.dev)
 
   
   ##
