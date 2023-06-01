@@ -9,10 +9,11 @@
   <a href="https://github.com/chrzddd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzoleao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoleao&layout=compact&langs_count=7&theme=dracula"/>
+    <br/>
 </div>
 
 
-<br/>
+
   [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,php,sequelize,react,nextjs,sass,tailwind&perline=10)](https://skillicons.dev)
 
   
