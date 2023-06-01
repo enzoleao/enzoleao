@@ -2,6 +2,7 @@
 
 - 🔭 Hoje trabalho como Desenvolvedor Full-stack.
 - 🌱 Conhecimentos: Possuo experiência com projetos utilizando React.js, Next.js, Node.js, Laravel, Postgres, MySQL, MongoDB.
+- Trabalhei como Desenvolvedor Full-Stack para o Desenvolvimento do Sistema de Agendamento de Identidade da PMPA, desenvolvi uma Dashboard para gerenciar os agendamentos, polos de atendimento, avisos na home page, gerenciamento de números de RG gerados e gerenciamento de feriados. Utilizei para o Front-end React.js, Vite, UI Libraries e para o Back-End Node.js, Express.js, Sequelize, MySQL. 
 
 
 
