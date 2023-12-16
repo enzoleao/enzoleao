@@ -1,7 +1,7 @@
 ### Olá, eu sou Enzo Leão👋
 
 - 🔭 Hoje trabalho como Desenvolvedor Full-stack.
-- 🌱 Conhecimentos: Possuo experiência com projetos utilizando React.js, Next.js, Node.js, Laravel, Postgres, MySQL, MongoDB.
+- 🌱 Conhecimentos: Possuo experiência com projetos utilizando Express, Next, MySQL, MongoDB e Docker.
 - Trabalhei como Desenvolvedor Full-Stack para o Desenvolvimento do Sistema de Agendamento de Identidade da PMPA, desenvolvi uma Dashboard para gerenciar os agendamentos, polos de atendimento, avisos na home page, gerenciamento de números de RG gerados e gerenciamento de feriados. Utilizei para o Front-end React.js, Vite, UI Libraries e para o Back-End Node.js, Express.js, Sequelize, MySQL. 
 - Atualmente trabalho em um projeto de gestão de prontuário também para a PMPA, no qual estamos desenvolvendo um Sistema de controle para o CIAP, venho desenvolvendo funções como Front-end utilizando Next.js.
 
