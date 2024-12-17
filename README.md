@@ -26,7 +26,7 @@
  	<a href="https://www.twitch.tv/seetz32" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href = "mailto:enzopinheiro6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/enzo-le%C3%A3o-976270202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://drive.google.com/file/d/1W-C73hWfBf3n9xT-AzoA8ecXKyHIAowQ/view" target="_blank"><img src="https://img.shields.io/badge/-Curriculum-%808080?style=for-the-badge&logo=&logoColor=white" target="_blank"></a> 
+  <a href="https://drive.google.com/file/d/1ZvmTLsRxecNHlCrrRkp8P8Q_3x3tVnfd/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Curriculum-%808080?style=for-the-badge&logo=&logoColor=white" target="_blank"></a> 
 
 </div>
   
