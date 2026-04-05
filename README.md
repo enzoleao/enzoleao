@@ -1,9 +1,10 @@
 ### Olá, eu sou Enzo Leão👋
 
 - 🔭 Hoje trabalho como Desenvolvedor Full-stack.
-- 🌱 Conhecimentos: Possuo experiência com projetos utilizando Express, Next, MySQL, MongoDB e Docker.
+- 🌱 Conhecimentos: Possuo experiência com projetos utilizando Node, Java, PHP, Python, MySQL e Docker.
 - Trabalhei como Desenvolvedor Full-Stack para o desenvolvimento de uma plataforma de agendamentos
-- Atualmente estou como QA na InvestingHub e desenvolvendo alguns projetos pessoais para sempre ir me aperfeiçoando para ir acompanhando: https://chat-frontend-pink.vercel.app/signin
+- Atuai como QA na InvestingHub e desenvolvendo alguns projetos pessoais para sempre ir me aperfeiçoando para ir acompanhando
+- Atualmente estou trabalhando como Desenvolvedor de Software Jr na InvestingHub
    
 
 
